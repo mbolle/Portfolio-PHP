@@ -1,0 +1,88 @@
+
+body {
+    background-image: url(Fotos/B.jpg);
+}
+
+
+.container .navbar{
+    background-color: #c2f0b7;
+}
+
+#content{
+    background-color: #ffffff;
+    padding-top:20px;
+}
+#footer{
+    padding:20px;
+}
+
+.designText{
+    text-align: center;
+}
+.img-list{
+    max-width: 100px;
+}
+
+.jumbotron-text{
+    text-align: center;
+    color: black;
+}
+
+.jumbo {
+    background-color: white;
+    background-size: cover;
+    color:black;
+}
+
+.jumbotron {
+    background-color: white;
+    background-size: cover;
+    margin-bottom: 0rem !important;
+}
+       
+      
+    #display {
+        text-align: right;
+        height: 70px;
+        line-height: 70px;
+        padding: 16px 8px;
+        font-size: 25px;
+    }
+    
+    .buttons {
+        display: grid;
+        border-bottom: 1px solid rgb(149, 149, 149);
+        border-left: 1px solid rgb(148, 148, 148);
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    
+    .buttons > div {
+        border-top: 1px solid rgb(161, 161, 161);
+        border-right: 1px solidrgb(255, 255, 255);
+    }
+    
+    .button {
+        border: 0.5px solid rgb(122, 122, 122);
+        line-height: 100px;
+        text-align: center;
+        font-size: 25px;
+        cursor: pointer;
+    }
+    
+    #equal {
+        background-color: #c2f0b7(51, 255, 0);
+        color: #ffffff
+    }
+    
+    .button:hover {
+        background-color: #c2f0b7;
+        color: #ffffff;
+        transition: 0.5s ease-in-out;
+    }
+    *{
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+        }
+     

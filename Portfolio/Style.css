@@ -1,0 +1,40 @@
+body {
+    background-image: url(Fotos/B.jpg);
+}
+
+.container .navbar{
+    background-color: #c2f0b7;
+}
+
+#content{
+    background-color: #c2f0b7;
+    padding-top:20px;
+}
+#footer{
+    padding:20px;
+}
+
+.designText{
+    text-align: center;
+}
+.img-list{
+    max-width: 100px;
+}
+
+.jumbotron-text{
+    text-align: center;
+    color: black;
+}
+
+.jumbo {
+    background-color: white;
+    background-size: cover;
+    color:black;
+}
+
+.jumbotron {
+    background-color: white;
+    background-size: cover;
+    margin-bottom: 0rem !important;
+}
+
